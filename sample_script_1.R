@@ -6,3 +6,6 @@
 # 2) copy repository url
 # 3) create new project in Rstudio using 'Version Control' option
 # 4) copy url in dialog box and other info and that's it
+
+
+# I put this in for a sample 2nd commit
